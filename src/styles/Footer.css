@@ -1,0 +1,21 @@
+.container {
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    /* padding-left: 500px;
+    padding-bottom: 50px; */
+    
+}
+
+.git-img {
+    max-width: 23%;
+    height: auto;
+    
+}
+
+.linked-img {
+    max-width: 10%;
+    height: auto;
+    
+}
+
