@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Source Code Pro', monospace;
   line-height: 1.5;
   font-weight: 400;
 
@@ -15,7 +15,7 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #cb99e4;
   text-decoration: inherit;
   
 }
