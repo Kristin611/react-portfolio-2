@@ -49,7 +49,7 @@ const ContactForm = () => {
   };
 
   return (
-    <div>
+    <div className='contact-container'>
       <h2>I'd love to hear from you!</h2>
       <h3>To get in touch with me, please fill out the form below.</h3>
       <form className='form' onSubmit={handleSubmit}>
@@ -72,7 +72,7 @@ const ContactForm = () => {
          name='message'
          onChange={handleInputChange}
          type="message"
-         placeholder='message text'
+         className='message'
          />
          <button type='Submit'>Submit</button>
       </form>
