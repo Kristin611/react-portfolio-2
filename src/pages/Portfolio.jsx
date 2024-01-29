@@ -12,6 +12,7 @@ const Portfolio = () => {
   return (
     <div>
         <div>
+            <h2 className='proj-title'>Projects</h2>
             <div className='proj-container'>
                 <div>
                     <a href="https://joosbox-9e68743f6da7.herokuapp.com/login">

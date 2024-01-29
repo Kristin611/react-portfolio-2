@@ -32,7 +32,7 @@ const ContactForm = () => {
 
     //check to see if email is invalid or if name is empty
     if (!validateEmail(email) || !name) {
-      setErrorMessage('Name or email is invalid');
+      setErrorMessage('Name or email is invalid.');
       //using return to exit out of code block so user can correct the errors
       return;
     }
