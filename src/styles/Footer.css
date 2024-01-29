@@ -1,35 +1,32 @@
 .footer-wrapper {
-    width: 100%;
-    /* background-color: blue; */
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    padding: 2rem;
-}
+    max-width: 1000px;
+    height: 650px;
+    margin: auto;
 
-.container {
-   
-   display: flex;
-    justify-content: space-between;
-   
-   
-   border: 1px solid orange;
-   
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 10rem;
     
 }
 
+
 .git-img {
-    max-width: 23%;
+    max-width: 15%;
     height: auto;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     
 }
 
 .linked-img {
     max-width: 10%;
     height: auto;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     
+}
+
+.dev-img {
+    max-width: 15%;
+    height: auto;
 }
 
 a {
