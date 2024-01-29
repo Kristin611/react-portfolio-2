@@ -1,36 +1,31 @@
 .footer-wrapper {
-    max-width: 1000px;
-    height: 650px;
+    max-width: 200px;
+    height: 75px;
     margin: auto;
 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding-top: 10rem;
+    padding-top: 5rem;
+    /* background-color: blue; */
+    justify-items: center;
+    gap: 3rem;
     
 }
 
+.grid-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 
-.git-img {
-    max-width: 15%;
-    height: auto;
-    /* border: 1px solid black; */
-    
 }
 
-.linked-img {
-    max-width: 10%;
-    height: auto;
-    /* border: 1px solid black; */
-    
-}
 
-.dev-img {
-    max-width: 15%;
-    height: auto;
-}
 
-a {
-    padding: 0;
-    padding-right: 0;
-}
+
+
+
+
+
+
 
