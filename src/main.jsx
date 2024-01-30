@@ -1,13 +1,13 @@
 import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './styles/index.css';
-import './styles/about.css';
-import './styles/footer.css';
-import './styles/nav.css';
-import './styles/contact.css';
-import './styles/resume.css';
-import './styles/portfolio.css';
-import './styles/header.css';
+import './styles/About.css';
+import './styles/Footer.css';
+import './styles/Nav.css';
+import './styles/Contact.css';
+import './styles/Resume.css';
+import './styles/Portfolio.css';
+import './styles/Header.css';
 
 //bringing in pages the router will use to conditionally show the appropriate views
 import App from './App';
