@@ -46,7 +46,7 @@ const Portfolio = () => {
                         </figcaption>
                     </a>
                 </div>
-                <div>
+                <div className='div-item'>
                     <a href="https://kristin611.github.io/daily-planner/">
                         <img src={Planner} alt="homepage of Daily Planner, a scheduling app" />
                         <figcaption>Daily Planner <a href="https://github.com/Kristin611/daily-planner"><img src={GitPic} className='git' alt="github-icon" /></a>
@@ -54,7 +54,7 @@ const Portfolio = () => {
                         </figcaption>
                     </a>
                 </div>
-                <div>
+                <div className='div-item'>
                     <a href="https://kristin611.github.io/myWeather/">
                         <img src={myWeather} alt="homepage of myWeather, a weather application" />
                         <figcaption>myWeather <a href="https://github.com/Kristin611/myWeather"><img src={GitPic} className='git' alt="github-icon" /></a>
