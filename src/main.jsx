@@ -4,9 +4,10 @@ import './styles/index.css';
 import './styles/about.css';
 import './styles/footer.css';
 import './styles/nav.css';
-import './styles/contact.css'
-import './styles/resume.css'
-import './styles/portfolio.css'
+import './styles/contact.css';
+import './styles/resume.css';
+import './styles/portfolio.css';
+import './styles/header.css';
 
 //bringing in pages the router will use to conditionally show the appropriate views
 import App from './App';
