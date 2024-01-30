@@ -1,0 +1,31 @@
+.footer-wrapper {
+    max-width: 200px;
+    height: 75px;
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 5rem;
+    /* background-color: blue; */
+    justify-items: center;
+    gap: 3rem;
+    
+}
+
+.grid-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+

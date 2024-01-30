@@ -1,0 +1,17 @@
+.profile-pic {
+    max-width: 20%;
+    height: auto;
+  
+  }
+
+  .wrapper {
+    padding-left: 8rem;
+    padding-top: 5rem;
+  }
+
+  .about-container {
+    display: flex;
+    /* justify-content: left; */
+    flex-direction: column;
+    justify-content: space-around;
+  }
