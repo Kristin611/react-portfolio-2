@@ -31,7 +31,7 @@ const Portfolio = () => {
                     </a>
                 </div>
                 <div className='div-item'>
-                    <a href="https://text-editor-2-0.onrender.com/">
+                    <a href="https://hidden-escarpment-38304-cf89b08629fd.herokuapp.com/">
                         <img src={Jate} className='jate' alt="homepage of Jate, a code editing app" />
                         <figcaption>Code Editor <a href="https://github.com/Kristin611/text-editor"><img src={GitPic} className='git' alt="github-icon" /></a>
 
