@@ -9,11 +9,12 @@ const About = () => {
             <div className='about-container'>
             <img src={ProfilePic} alt="profile picture" className='profile-pic'/>
             <h2>About Me</h2>
-            <p>I am a full-stack developer who has a passion for turning a business's vision into a reality. <br />With more people online today, I think it is important that a business's
-                    website reflects its values, mission, and services. Equally important is the functionality of a
-                    business's website so that users and clients have a seamless experience while browsing. <br />I am excited
-                    at the prospect of making your vision a reality. To view my past projects and the services
-                    that I can offer to you and your business, navigate to portfolio section above!</p>
+            <p>I am a dynamic and motivated junior software developer. 
+              Possessing over 5 years of experience in teaching and curriculum development, I excel in effectively communicating complex concepts, fostering collaborative environments, and leading teams toward achieving common goals. My background in academia and teaching has honed my problem-solving and critical thinking abilities, which I now apply to tackle software development challenges with precision and innovation. 
+              I am eager to leverage my diverse skill set and passion for web development in order to contribute to an agile software development team. 
+              As a woman who is a sociologist entering the software development field, I believe I possess a unique opportunity to contribute meaningfully to my local community. My passion for understanding societal dynamics, particularly their impact on women and girls, fuels my commitment to inspiring them. Encouraging women and girls to actively participate as contributors, innovators, and leaders in the continually evolving landscape of technology holds deep personal significance for me.
+
+              To view my past projects and the services that I can offer to you and your business, navigate to the "Portfolio" section above!</p>
             </div>
 
         </div>
