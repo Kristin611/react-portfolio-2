@@ -15,9 +15,9 @@ const Portfolio = () => {
             <h2 className='proj-title'>Projects</h2>
             <div className='proj-container'>
                 <div className='div-item'>
-                    <a href="https://joosbox-9e68743f6da7.herokuapp.com/login">
+                    <a href="https://pure-falls-37475-b827dca668fb.herokuapp.com/">
                         <img src={Juicebox} alt="homepage of Juicebox, a file sharing app for images" />
-                        <figcaption>Juicebox <a href="https://github.com/Gabriel-Viernes/project-2"><img src={GitPic} className='git' alt="github-icon" /></a>
+                        <figcaption>Juicebox <a href="https://github.com/Kristin611/juicebox"><img src={GitPic} className='git' alt="github-icon" /></a>
 
                         </figcaption>
                     </a>
