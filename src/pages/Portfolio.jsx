@@ -39,30 +39,30 @@ const Portfolio = () => {
                         </figcaption>
                     </a>
                 </div>
-                <div className='div-item'>
+                {/* <div className='div-item'>
                     <a href="https://rocky-fjord-99809-bcfef4594424.herokuapp.com/">
                         <img src={NoteTaker} alt="homepage of Note Taker, a note taking app" />
                         <figcaption>Note Taker <a href="https://github.com/Kristin611/Note-Taker"><img src={GitPic} className='git' alt="github-icon" /></a>
                             
                         </figcaption>
                     </a>
-                </div>
-                <div className='div-item'>
+                </div> */}
+                {/* <div className='div-item'>
                     <a href="https://kristin611.github.io/daily-planner/">
                         <img src={Planner} alt="homepage of Daily Planner, a scheduling app" />
                         <figcaption>Daily Planner <a href="https://github.com/Kristin611/daily-planner"><img src={GitPic} className='git' alt="github-icon" /></a>
 
                         </figcaption>
                     </a>
-                </div>
-                <div className='div-item'>
+                </div> */}
+                {/* <div className='div-item'>
                     <a href="https://kristin611.github.io/myWeather/">
                         <img src={myWeather} alt="homepage of myWeather, a weather application" />
                         <figcaption>myWeather <a href="https://github.com/Kristin611/myWeather"><img src={GitPic} className='git' alt="github-icon" /></a>
 
                         </figcaption>
                     </a>
-                </div>
+                </div> */}
 
             </div>
 

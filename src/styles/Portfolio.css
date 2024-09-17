@@ -16,7 +16,7 @@ a img:hover {
 
 .proj-container {
     max-width: 1000px;
-    height: 650px;
+    height: auto;
     margin: 0 auto;
 
     display: grid;
